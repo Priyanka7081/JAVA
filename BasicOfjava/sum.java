@@ -7,6 +7,7 @@ public class sum{
         System.err.println("Enter first number :");
         int x = sc.nextInt();
         System.err.println("Enter second number :");
+       // int y = sc.nextInt();
         int y = sc.nextInt();
         int sum = x+y;
 
