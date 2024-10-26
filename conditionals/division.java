@@ -8,7 +8,8 @@ public class division{
             System.out.println("enter a number :");
             int n = sc.nextInt();
             if(n%5==0){
-                System.out.println("number uoy enter is divisibal by 5");
+                System.out.println("number you enter is divisibal by 5");
+                System.out.println("good morning");
             }
             else{
                 
